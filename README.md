@@ -4,7 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 
 
-- 🌱 I’m currently learning **Flutter and Django, ML & AI, DSA**
+- 🔭 I’m currently working on **A tool to solve day to day problems**
+
+- 🌱 I’m currently learning **Flutter and Django, ML & AI**
+
+- 👯 I’m looking to collaborate on **Full Fledge Project / Full Stack Application / Startup / Backend**
 
 - 💬 Ask me about **MERN**
 
