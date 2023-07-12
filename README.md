@@ -7,7 +7,7 @@ I have developed a strong expertise in various technologies and frameworks.
 
 I'm all about building responsive and visually stunning user interfaces, and I have experience working with popular frameworks like Bootstrap and Tailwind CSS.
 
-#My Stack
+# My Stack
 I specialize in a wide range of technologies, including:
 
 Node.js and Express for backend development
