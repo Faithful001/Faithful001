@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faithful Eromosele</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faithfultheking" alt="faithfultheking" /></a> </p>
 
-<imgalign="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 
 
 - 🌱 I’m currently learning **Flutter and Django, ML & AI**
