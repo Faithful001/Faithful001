@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter and Django, ML & AI**
 
-- 💬 Ask me about **javascript and react**
+- 💬 Ask me about **javascript and MERN**
 
 - 📫 How to reach me **faithfuleromosele001@gmail.com**
 
@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/faithfultheking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="faithfultheking" height="30" width="40" /></a>
-<a href="https://twitter.com/experience i have spent the past 3 years honing my skills and delivering high-quality solutions to clients. through my experience, i have gained a deep understanding of industry best practices and the ability to tackle complex challenges efficiently. feel free to explore my github repositories for examples of my work and projects utilizing my diverse skill set." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="experience i have spent the past 3 years honing my skills and delivering high-quality solutions to clients. through my experience, i have gained a deep understanding of industry best practices and the ability to tackle complex challenges efficiently. feel free to explore my github repositories for examples of my work and projects utilizing my diverse skill set." height="30" width="40" /></a>
+<a href="https://twitter.com/faithfultheking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/faithful eromosele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faithful eromosele" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/faithfultheking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="faithfultheking" height="30" width="40" /></a>
 </p>
