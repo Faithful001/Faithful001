@@ -1,1 +1,1 @@
-Hi wave, I'm Faithful Eromosele
+Hi, I'm Faithful Eromosele
