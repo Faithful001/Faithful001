@@ -7,7 +7,7 @@ Hi 👋, I'm Faithful
 
 - 🔭 I’m currently working on **a tool to solve day to day problems**
 
-- 🌱 I’m currently learning **Flutter and Django, ML & AI**
+- 🌱 I’m currently learning **C, Flutter and Django, ML & AI**
 
 - 👯 I’m looking to collaborate on **Full Fledge Project / Full Stack Application / Startup / Backend**
 
