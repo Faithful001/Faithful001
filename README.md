@@ -5,13 +5,13 @@ Hi 👋, I'm Faithful
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 
 
-- 🔭 I’m currently working on **a tool to solve day to day problems**
+- 🔭 I’m currently working on **improving myself and my skillset**
 
 - 🌱 I’m currently learning **C, Flutter and Django, ML & AI**
 
 - 👯 I’m looking to collaborate on **Full Fledge Project / Full Stack Application / Startup / Backend**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **faithfuleromosele001@gmail.com**
 
