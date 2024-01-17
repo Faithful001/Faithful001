@@ -7,9 +7,7 @@ Hi 👋, I'm Faithful
 
 - 🔭 I’m currently working on **improving myself and my skillset**
 
-- 🌱 I’m currently learning **C, Flutter and Django, ML & AI**
-
-- 👯 I’m looking to collaborate on **Full Fledge Project / Full Stack Application / Startup / Backend**
+- 👯 I’m looking to collaborate on **Full Fledged Projects / Full Stack Applications / Startups / Backend**
 
 - 💬 Ask me about **Full Stack Development**
 
