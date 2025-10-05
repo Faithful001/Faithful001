@@ -1,4 +1,4 @@
-Hi 👋, I'm Faithful
+Hi 👋, I'm King Faithful
 <h1 align="center">Innovative Software Engineer</h1>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faithfultheking" alt="faithfultheking" /></a> </p> -->
 
