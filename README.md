@@ -4,7 +4,7 @@ Hi 👋, I'm King Faithful
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 
-- 🔭 I’m looking to collaborate on **Full Fledged Projects / Full Stack Applications / Backend / Startups
+- 🔭 I’m looking to collaborate on **Full Fledged Projects / Full Stack Applications / Backend / Startups**
 
 - 💬 Ask me about **Full Stack Development**
 
