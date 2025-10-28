@@ -19,14 +19,15 @@ Hi 👋, I'm King Faithful
 </p>
 
 <h3 align="left">Languages and Skills:</h3>
-💬 Golang
-💬 Javascript
-💬 Typescript
-💬 Java 
-💬 Python
-💬 Solidity
-💬 AI engineering
-💬 AWS 
+
+💬 Golang <br/>
+💬 Javascript <br/>
+💬 Typescript <br/>
+💬 Java <br/>
+💬 Python <br/>
+💬 Solidity <br/>
+💬 AI engineering <br/>
+💬 AWS <br/>
 <!-- <p align="left"> 
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
