@@ -8,6 +8,8 @@ Hi 👋, I'm King Faithful
 
 - 💬 Ask me about **Full Stack Development**
 
+- 📫 How to reach me **faithfuleromosele001@gmail.com**
+  
 <h3 align="left">Languages and Skills:</h3>
 
 💬 Golang <br/>
@@ -18,8 +20,6 @@ Hi 👋, I'm King Faithful
 💬 Solidity <br/>
 💬 AI engineering <br/>
 💬 AWS <br/>
-
-- 📫 How to reach me **faithfuleromosele001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
