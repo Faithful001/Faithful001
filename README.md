@@ -12,10 +12,9 @@ Hi 👋, I'm King Faithful
   
 <h3 align="left">Languages and Skills:</h3>
 
-💬 Golang <br/>
-💬 Javascript <br/>
 💬 Typescript <br/>
 💬 Java <br/>
+💬 Golang <br/>
 💬 Python <br/>
 💬 Solidity <br/>
 💬 AI engineering <br/>
