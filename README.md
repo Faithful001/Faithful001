@@ -1,8 +1,9 @@
-Hi 👋, I'm King Faithful
-<h1 align="center">Innovative Software Engineer</h1>
+Hi 👋, I'm Faithful
+<h3 align="center">Innovative Software Engineer</h2>
+<p>I love reading white papers, documentation, and other people's code.</p>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faithfultheking" alt="faithfultheking" /></a> </p> -->
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img> -->
 
 - 🔭 I’m looking to collaborate on **Full Fledged Projects / Full Stack Applications / Backend / Startups**
 
@@ -10,15 +11,31 @@ Hi 👋, I'm King Faithful
 
 - 📫 How to reach me **faithfuleromosele001@gmail.com**
   
-<h3 align="left">Languages and Skills:</h3>
+### 🛠 &nbsp;Languages and tools I enjoy working with
 
-💬 Typescript <br/>
-💬 Java <br/>
-💬 Golang <br/>
-💬 Python <br/>
-💬 Solidity <br/>
-💬 AI engineering <br/>
-💬 AWS <br/>
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
+!Python(https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)\
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Xlaez">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Faithful001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Faithful001&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+#### Contributions
+<div align="center">
+	<a href="https://github.com/farhan7reza7/diff-ymd-package.git"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Faithful001&hide_border=true&show_icons=true&currStreakNum=e9ecef&sideNums=e9ecef&border=272b30&currStreakLabel=e9ecef&background=272b30&sideLabels=e9ecef&dates=7a8288" /></a>
+</div>
+
+<!-- <a href="mailto:utibeabsiakaninyene@gmail.com"><img src="https://img.shields.io/badge/-utibeabasiakaninyene@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
