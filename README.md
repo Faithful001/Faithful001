@@ -23,7 +23,7 @@ Hi 👋, I'm Faithful
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/Xlaez">
+<a href="https://github.com/Faithful001">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Faithful001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Faithful001&layout=compact&langs_count=8&theme=algolia"/>
 </a>
