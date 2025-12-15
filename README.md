@@ -20,15 +20,13 @@ Hi 👋, I'm Faithful
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)\
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
-
-### ⚙️ &nbsp;GitHub Analytics
-
+<!--
 <p align="center">
 <a href="https://github.com/Faithful001">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Faithful001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Faithful001&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+</p> -->
 
 <!-- <a href="mailto:utibeabsiakaninyene@gmail.com"><img src="https://img.shields.io/badge/-utibeabasiakaninyene@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> -->
 
