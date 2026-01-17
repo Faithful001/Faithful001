@@ -5,9 +5,9 @@ Hi 👋, I'm King Faithful
 <p>I’m a Software Engineer who enjoys building elegant solutions to real-world problems. From backend systems to user-facing applications, I focus on quality, performance, and long-term maintainability</p>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img> -->
 
-- 🔭 I’m looking to collaborate on **Full Stack Applications / Backend / Startups**
+- 🔭 I’m looking to collaborate on **Backend / Full Stack Applications / Startups**
 
-- 💬 Ask me about **Full Stack Development**
+- 💬 Ask me about **Software Engineering**
 
 - 📫 How to reach me **faithfuleromosele001@gmail.com**
   
