@@ -28,8 +28,6 @@ Hi 👋, I'm King Faithful
 </a>
 </p> -->
 
-<!-- <a href="mailto:utibeabsiakaninyene@gmail.com"><img src="https://img.shields.io/badge/-utibeabasiakaninyene@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> -->
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
