@@ -3,7 +3,6 @@ Hi 👋, I'm King Faithful
 <h3 align="center">I love reading white papers, documentations, and other people's code.</h3>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faithfultheking" alt="faithfultheking" /></a> </p> -->
 <p>I’m a Software Engineer who enjoys building elegant solutions to real-world problems. From backend systems to user-facing applications, I focus on quality, performance, and long-term maintainability</p>
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img> -->
 
 - 🔭 I’m looking to collaborate on **Backend / Full Stack Applications / Startups**
 
