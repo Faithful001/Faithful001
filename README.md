@@ -2,7 +2,7 @@ Hi 👋, I'm King Faithful
 
 <h1 align="center">Software Engineer • AI Engineer</h1>
 <h3 align="center">
-I love reading white papers, documentation, and other people's code — especially in AI, systems, and distributed computing.
+I love reading white papers, documentation, and other people's code.
 </h3>
 
 <p>
