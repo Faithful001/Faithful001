@@ -1,12 +1,27 @@
 Hi 👋, I'm King Faithful
-<h1 align="center">Innovative Software Engineer</h1>
+
+<h1 align="center">Software Engineer • AI Engineer</h1>
+<h3 align="center">
+I love reading white papers, documentation, and other people's code — especially in AI, systems, and distributed computing.
+</h3>
+
+<p>
+I’m a Software Engineer with a strong interest in Artificial Intelligence and Machine Learning, focused on building intelligent, reliable, and scalable systems. 
+From backend services and APIs to AI-powered features and data-driven applications, I care deeply about code quality, performance, and long-term maintainability.
+</p>
+
+<p>
+I enjoy translating research ideas into production-ready solutions, experimenting with models, optimizing pipelines, and integrating AI responsibly into real-world products.
+</p>
+
+<!-- <h1 align="center">Software Engineer, AI Engineer</h1>
 <h3 align="center">I love reading white papers, documentations, and other people's code.</h3>
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faithfultheking" alt="faithfultheking" /></a> </p> -->
-<p>I’m a Software Engineer who enjoys building elegant solutions to real-world problems. From backend systems to user-facing applications, I focus on quality, performance, and long-term maintainability</p>
 
-- 🔭 I’m looking to collaborate on **Backend / Full Stack Applications / Startups**
+<p>I’m a Software Engineer who enjoys building elegant solutions to real-world problems. From backend systems to user-facing applications, I focus on quality, performance, and long-term maintainability</p> -->
 
-- 💬 Ask me about **Software Engineering**
+- 🔭 I’m looking to collaborate on **Backend, Full-Stack, and AI-powered applications**, from idea to production
+
+- 💬 Ask me about **Software Engineering, System Design, and AI Engineering**
 
 - 📫 How to reach me **faithfuleromosele001@gmail.com**
   
