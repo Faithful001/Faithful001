@@ -1,12 +1,12 @@
 Hi 👋, I'm King Faithful
 
-<h1 align="center">Software Engineer • AI Engineer</h1>
+<h1 align="center">Software Engineer</h1>
 <h3 align="center">
 I love reading white papers, documentation, and other people's code.
 </h3>
 
 <p>
-I’m a Software Engineer with a strong interest in Artificial Intelligence and Machine Learning, focused on building intelligent, reliable, and scalable systems. 
+I’m a Software Engineer focused on building intelligent, reliable, and scalable systems. 
 From backend services and APIs to AI-powered features and data-driven applications, I care deeply about code quality, performance, and long-term maintainability.
 </p>
 
