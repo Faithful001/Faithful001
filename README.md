@@ -1,6 +1,6 @@
 # Hi 👋, I'm King Faithful
 
-<h3 align="center">Backend Engineer | AI, Cloud-Native & Distributed Systems | Blockchain/Web3</h3>
+<h3 align="center">Software Engineer | Backend, AI & Cloud Systems | Blockchain/Web3</h3>
 <!-- <h3 align="center">
 I love reading white papers, documentation, and other people's code.
 </h3> -->
