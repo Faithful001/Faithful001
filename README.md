@@ -35,7 +35,7 @@ I enjoy translating research ideas into production-ready solutions, experimentin
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)\
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
-* **Languages:** TypeScript(Node.js), Go, Java, Python.
+* **Languages:** TypeScript (Node.js), Go, Java, Python.
 * **Frameworks:** NestJS, Express, Gin, Spring Boot, Fast API.
 * **Databases & Messaging:** PostgreSQL, MongoDB, MySQL, Redis, Kafka, Rabbit MQ, Bull MQ, Supabase, Firebase.
 * **Web3:** Solidity (EVM), Web3.js, Ethers.js.
