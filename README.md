@@ -1,23 +1,24 @@
 Hi 👋, I'm King Faithful
 
-<h1 align="center">Software Engineer</h1>
-<h3 align="center">
+<h1 align="center">Senior Software Engineer | Blockchain & Cloud Infrastructure Specialist</h1>
+<!-- <h3 align="center">
 I love reading white papers, documentation, and other people's code.
-</h3>
+</h3> -->
 
 <p>
-I’m a Software Engineer focused on building intelligent, reliable, and scalable systems. 
-From backend services and APIs to AI-powered features and data-driven applications, I care deeply about code quality, performance, and long-term maintainability.
+Backend-focused software engineer building reliable, scalable systems. <br/>
+I design high-availability backend services, APIs, and production-grade blockchain/Web3 infrastructure, with experience in AI-powered and data-driven applications.
+Focused on performance, code quality, and systems that scale, self-heal, and handle real-world traffic and financial workloads.
 </p>
+
+<!-- <p>
+I’m a backend-focused software engineer focused on building intelligent, reliable, and scalable systems. 
+From backend services and APIs to AI-powered features and data-driven applications, I care deeply about code quality, performance, and long-term maintainability.
+</p> -->
 
 <p>
 I enjoy translating research ideas into production-ready solutions, experimenting with models, optimizing pipelines, and integrating AI responsibly into real-world products.
 </p>
-
-<!-- <h1 align="center">Software Engineer, AI Engineer</h1>
-<h3 align="center">I love reading white papers, documentations, and other people's code.</h3>
-
-<p>I’m a Software Engineer who enjoys building elegant solutions to real-world problems. From backend systems to user-facing applications, I focus on quality, performance, and long-term maintainability</p> -->
 
 - 🔭 I’m looking to collaborate on **Backend, Full-Stack, and AI-powered applications**, from idea to production
 
@@ -25,7 +26,7 @@ I enjoy translating research ideas into production-ready solutions, experimentin
 
 - 📫 How to reach me **faithfuleromosele001@gmail.com**
   
-### 🛠 &nbsp;Languages and tools I enjoy working with
+### 🛠 &nbsp; Core Technical Arsenal
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
@@ -34,13 +35,12 @@ I enjoy translating research ideas into production-ready solutions, experimentin
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)\
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
-<!--
-<p align="center">
-<a href="https://github.com/Faithful001">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Faithful001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Faithful001&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p> -->
+* **Languages:** TypeScript(Node.js), Go, Java, Python.
+* **Frameworks:** NestJS, Express, Gin, Spring Boot, Fast API.
+* **Databases & Messaging:** PostgreSQL, MongoDB, MySQL, Redis, Kafka, Rabbit MQ, Bull MQ, Supabase, Firebase.
+* **Web3:** Solidity (EVM), Web3.js, Ethers.js.
+* **DevOps:** Docker, GitHub Actions, AWS, Nginx, Linux (Ubuntu).
+* **Automation:** Telegram Bots, WebSocket listeners, SSE, Wallet Activity Trackers.
 
 
 <h3 align="left">Connect with me:</h3>
