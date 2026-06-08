@@ -1,6 +1,6 @@
 Hi 👋, I'm King Faithful
 
-<h1 align="center">Senior Software Engineer | Blockchain & Cloud Infrastructure Specialist</h1>
+<h3 align="center">Senior Software Engineer | Blockchain & Cloud Infrastructure Specialist</h3>
 <!-- <h3 align="center">
 I love reading white papers, documentation, and other people's code.
 </h3> -->
