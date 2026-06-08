@@ -22,6 +22,7 @@ From backend services and APIs to AI-powered features and data-driven applicatio
 I enjoy translating research ideas into production-ready solutions, experimenting with models, optimizing pipelines, and integrating AI responsibly into real-world products.
 </p> -->
 
+
 - 🔭 I’m looking to collaborate on backend, full-stack, AI-powered, and blockchain applications, from idea to production.
 
 - 💬 Ask me about software engineering, system design, AI engineering, and blockchain/Web3 development.
