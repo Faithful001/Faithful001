@@ -16,9 +16,9 @@ I’m a backend-focused software engineer focused on building intelligent, relia
 From backend services and APIs to AI-powered features and data-driven applications, I care deeply about code quality, performance, and long-term maintainability.
 </p> -->
 
-<p>
+<!-- <p>
 I enjoy translating research ideas into production-ready solutions, experimenting with models, optimizing pipelines, and integrating AI responsibly into real-world products.
-</p>
+</p> -->
 
 - 🔭 I’m looking to collaborate on **Backend, Full-Stack, and AI-powered applications**, from idea to production
 
