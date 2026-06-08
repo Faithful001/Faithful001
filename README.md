@@ -37,7 +37,8 @@ I enjoy translating research ideas into production-ready solutions, experimentin
 
 * **Languages:** TypeScript (Node.js), Go, Java, Python.
 * **Frameworks:** NestJS, Express, Gin, Spring Boot, Fast API.
-* **Databases & Messaging:** PostgreSQL, MongoDB, MySQL, Redis, Kafka, Rabbit MQ, Bull MQ, Supabase, Firebase.
+* **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Supabase, Firebase
+* **Messaging & Queues:** Kafka, RabbitMQ, BullMQ
 * **Web3:** Solidity (EVM), Web3.js, Ethers.js.
 * **DevOps:** Docker, GitHub Actions, AWS, Nginx, Linux (Ubuntu).
 * **Automation:** Telegram Bots, WebSocket listeners, SSE, Wallet Activity Trackers.
