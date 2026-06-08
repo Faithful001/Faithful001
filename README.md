@@ -1,17 +1,16 @@
 # Hi 👋, I'm King Faithful
 
-<h3 align="center">Senior Software Engineer | Blockchain & Cloud Infrastructure Specialist</h3>
+<h3 align="center">Backend Engineer | AI, Cloud-Native & Distributed Systems | Blockchain/Web3</h3>
 <!-- <h3 align="center">
 I love reading white papers, documentation, and other people's code.
 </h3> -->
 
 <p>
-Backend-focused software engineer building reliable, scalable systems. <br/>
-I design high-availability backend services, APIs, and production-grade blockchain/Web3 infrastructure, with experience in AI-powered and data-driven applications.
+I'm a backend-focused software engineer building high-availability services, AI-powered, data-driven, cloud-native applications, and production-grade blockchain/Web3 systems.
 </p>
 
 <p>
-Focused on performance, code quality, and systems that scale, self-heal, and handle real-world traffic and financial workloads.
+Prioritizing performance, code quality, and systems that scale, self-heal, and handle real-world traffic and financial workloads.
 </p>
 
 <!-- <p>
@@ -23,11 +22,11 @@ From backend services and APIs to AI-powered features and data-driven applicatio
 I enjoy translating research ideas into production-ready solutions, experimenting with models, optimizing pipelines, and integrating AI responsibly into real-world products.
 </p> -->
 
-- 🔭 I’m looking to collaborate on **Backend, Full-Stack, and AI-powered applications**, from idea to production
+- 🔭 I’m looking to collaborate on backend, full-stack, AI-powered, and blockchain applications, from idea to production.
 
-- 💬 Ask me about **Software Engineering, System Design, and AI Engineering**
+- 💬 Ask me about software engineering, system design, AI engineering, and blockchain/Web3 development.
 
-- 📫 How to reach me **faithfuleromosele001@gmail.com**
+- 📫 Reach me at faithfuleromosele001@gmail.com
   
 ### 🛠 &nbsp; Core Technical Arsenal
 
