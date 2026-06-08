@@ -1,4 +1,4 @@
-Hi 👋, I'm King Faithful
+#Hi 👋, I'm King Faithful
 
 <h3 align="center">Senior Software Engineer | Blockchain & Cloud Infrastructure Specialist</h3>
 <!-- <h3 align="center">
