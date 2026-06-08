@@ -7,7 +7,7 @@ I love reading white papers, documentation, and other people's code.
 
 <p>
 Backend-focused software engineer building reliable, scalable systems. <br/>
-I design high-availability backend services, APIs, and production-grade blockchain/Web3 infrastructure, with experience in AI-powered and data-driven applications.
+I design high-availability backend services, APIs, and production-grade blockchain/Web3 infrastructure, with experience in AI-powered and data-driven applications. <br/>
 Focused on performance, code quality, and systems that scale, self-heal, and handle real-world traffic and financial workloads.
 </p>
 
