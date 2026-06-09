@@ -45,7 +45,7 @@ I enjoy translating research ideas into production-ready solutions, experimentin
 * **Web3:** Solidity (EVM), Web3.js, Ethers.js.
 * **Frontend:** React, Next.js, Tailwind CSS, REST/GraphQL integration.
 * **Mobile:** React Native, Expo, Nativewind
-* **DevOps:** Docker, GitHub Actions, AWS, Nginx, Linux (Ubuntu).
+* **DevOps:** Docker, Kubernetes, GitHub Actions, AWS, Nginx, Linux (Ubuntu).
 
 
 <h3 align="left">Connect with me:</h3>
