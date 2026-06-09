@@ -6,7 +6,7 @@ I love reading white papers, documentation, and other people's code.
 </h3> -->
 
 <p>
-I'm a software engineer building high-availability backend systems, AI-powered, data-driven, cloud-native applications, and blockchain/Web3 infrastructure.
+I'm a backend-focused fullstack software engineer building high-availability backend systems, AI-powered, data-driven, cloud-native applications, and blockchain/Web3 infrastructure.
 </p>
 
 <p>
