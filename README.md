@@ -43,6 +43,8 @@ I enjoy translating research ideas into production-ready solutions, experimentin
 * **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Supabase, Firebase.
 * **Messaging & Queues:** Kafka, RabbitMQ, BullMQ, Celery.
 * **Web3:** Solidity (EVM), Web3.js, Ethers.js.
+* **Frontend:** React, Next.js, Tailwind CSS, REST/GraphQL integration.
+* **Mobile:** React Native, Expo, Nativewind
 * **DevOps:** Docker, GitHub Actions, AWS, Nginx, Linux (Ubuntu).
 
 
