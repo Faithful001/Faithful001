@@ -10,12 +10,13 @@ I'm a backend-focused fullstack software engineer building high-availability bac
 </p>
 
 <p>
-I build and ship complete products, designing APIs, implementing frontend interfaces, and deploying production systems end-to-end.
+I build and ship complete products by designing APIs, implementing frontend interfaces, and deploying production systems end-to-end, with a strong focus on performance, code quality, and scalability.
 </p>
 
+<!--
 <p>
 Prioritizing performance, code quality, and systems that scale, self-heal, and handle real-world traffic and financial workloads.
-</p>
+</p> -->
 
 <!-- <p>
 I’m a backend-focused software engineer focused on building intelligent, reliable, and scalable systems. 
