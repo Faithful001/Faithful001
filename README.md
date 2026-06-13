@@ -32,7 +32,7 @@ I enjoy translating research ideas into production-ready solutions, experimentin
 
 - 💬 Ask me about software engineering, system design, AI engineering, and blockchain/Web3 development.
 
-- 📫 Reach me at faithfuleromosele001@gmail.com
+- 📫 Reach me at kingfaithful001@gmail.com
   
 ### 🛠 &nbsp; Core Technical Arsenal
 
