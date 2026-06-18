@@ -1,9 +1,6 @@
 # Hi 👋, I'm King Faithful
 
 <h3 align="center">Software Engineer | Full-Stack, AI & Cloud Systems | Blockchain/Web3 Systems</h3>
-<!-- <h3 align="center">
-I love reading white papers, documentation, and other people's code.
-</h3> -->
 
 <p>
 I'm a backend-focused fullstack software engineer building high-availability backend systems, AI-powered, data-driven, cloud-native applications, and blockchain/Web3 infrastructure.
@@ -12,20 +9,6 @@ I'm a backend-focused fullstack software engineer building high-availability bac
 <p>
 I build and ship complete products by designing APIs, implementing frontend interfaces, and deploying production systems end-to-end, with a strong focus on performance, code quality, and scalability.
 </p>
-
-<!--
-<p>
-Prioritizing performance, code quality, and systems that scale, self-heal, and handle real-world traffic and financial workloads.
-</p> -->
-
-<!-- <p>
-I’m a backend-focused software engineer focused on building intelligent, reliable, and scalable systems. 
-From backend services and APIs to AI-powered features and data-driven applications, I care deeply about code quality, performance, and long-term maintainability.
-</p> -->
-
-<!-- <p>
-I enjoy translating research ideas into production-ready solutions, experimenting with models, optimizing pipelines, and integrating AI responsibly into real-world products.
-</p> -->
 
 
 - 🔭 I’m looking to collaborate on backend, full-stack, AI-powered, and blockchain applications, from idea to production.
@@ -36,12 +19,15 @@ I enjoy translating research ideas into production-ready solutions, experimentin
   
 ### 🛠 &nbsp; Core Technical Arsenal
 
+<div style="display: flex; flex-wrap: wrap;">
+  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=coffeescript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)\
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+</div>
 
 * **Languages:** TypeScript (Node.js), Go, Java, Python.
 * **Frameworks:** NestJS, Express, Gin, Spring Boot, Fast API.
