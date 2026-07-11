@@ -30,10 +30,10 @@ I build and ship complete products by designing APIs, implementing frontend inte
 * **Frameworks:** NestJS, Express, Gin, Spring Boot, Fast API.
 * **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Supabase, Firebase.
 * **Messaging & Queues:** Kafka, RabbitMQ, BullMQ, Celery.
-* **Web3:** Solidity (EVM), Web3.js, Ethers.js.
-* **Frontend:** React, Next.js, Tailwind CSS, REST/GraphQL integration.
-* **Mobile:** React Native, Expo, Nativewind
 * **DevOps:** Docker, Kubernetes, GitHub Actions, AWS, Nginx, Linux (Ubuntu).
+* **Web3:** Solidity (EVM), Web3.js, Ethers.js.
+* **Web:** React, Next.js, Tailwind CSS, REST/GraphQL integration.
+* **Mobile:** React Native, Expo, Nativewind.
 
 
 <h3 align="left">Connect with me:</h3>
