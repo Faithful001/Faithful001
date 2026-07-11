@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Full-Stack, AI & Cloud Systems | Blockchain/Web3 Systems</h3>
 
 <p>
-I'm a backend-focused fullstack software engineer building high-availability backend systems, AI-powered, data-driven, cloud-native applications, and blockchain/Web3 infrastructure.
+I'm a backend-focused fullstack software engineer building high-availability backend systems, AI-powered, data-driven, cloud-native applications, and blockchain/web3 infrastructure.
 </p>
 
 <p>
