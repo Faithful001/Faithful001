@@ -23,7 +23,7 @@ I build and ship complete products by designing APIs, implementing frontend inte
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=coffeescript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)\
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
 * **Languages:** TypeScript (Node.js), Go, Java, Python.
@@ -39,7 +39,7 @@ I build and ship complete products by designing APIs, implementing frontend inte
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/faithfultheking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="faithfultheking" height="30" width="40" /></a>
-<a href="https://x.com/0xkingfaithful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://x.com/kingfaithful001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/faithful-eromosele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faithful eromosele" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/faithfultheking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="faithfultheking" height="30" width="40" /></a>
 </p>
