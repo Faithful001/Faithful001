@@ -13,7 +13,7 @@ I build and ship complete products by architecting backend systems, implementing
 
 - 🔭 I’m looking to collaborate on backend, full-stack, AI-powered, and blockchain applications, from idea to production.
 
-- 💬 Ask me about software engineering, backend development, system design, AI engineering, and blockchain/Web3 development.
+- 💬 Ask me about software engineering, system design, AI engineering, and blockchain/Web3 development.
 
 - 📫 Reach me at kingfaithful001@gmail.com
   
