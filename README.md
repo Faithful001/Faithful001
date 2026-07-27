@@ -1,13 +1,13 @@
 # Hi 👋, I'm King Faithful
 
-<h3 align="center">Software Engineer | Fullstack, AI & DevOps | Blockchain/Web3 Systems</h3>
+<h3 align="center">Software Engineer | Backend, AI & DevOps | Blockchain Systems</h3>
 
 <p>
-I'm a backend-focused software engineer building high-availability backend systems, AI-powered, data-driven, cloud-native applications, and blockchain/web3 infrastructure.
+I'm a software engineer building high-availability backend systems, AI-powered, data-driven, cloud-native applications, and blockchain infrastructure.
 </p>
 
 <p>
-I build and ship complete products by architecting backend systems, implementing frontend interfaces, and deploying production systems end-to-end, with a strong focus on performance, reliability, code quality, and scalability.
+I build and ship complete products end-to-end, architecting backend systems, building frontend interfaces, and deploying to production, with a focus on performance, reliability, code quality, and scalability.
 </p>
 
 
