@@ -26,8 +26,8 @@ I build and ship complete products end-to-end, architecting backend systems, bui
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
-* **Languages:** TypeScript (Node.js), Go, Java, Python.
-* **Frameworks:** NestJS, Express, Gin, Spring Boot, Fast API.
+* **Languages:** TypeScript (Node.js), Java, Go, Python.
+* **Frameworks:** NestJS, Express, Spring Boot, Gin, Fast API.
 * **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Supabase, Firebase.
 * **Messaging & Queues:** Kafka, RabbitMQ, BullMQ, Celery.
 * **DevOps:** Docker, Kubernetes, GitHub Actions, AWS, Nginx, Linux (Ubuntu).
