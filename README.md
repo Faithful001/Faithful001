@@ -1,4 +1,4 @@
-# Hi 👋, I'm King Faithful
+# Hi 👋, I'm King
 
 <h3 align="center">Software Engineer | Backend · AI · DevOps | Blockchain Systems</h3>
 
