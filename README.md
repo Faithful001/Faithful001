@@ -1,6 +1,6 @@
 # Hi 👋, I'm King
 
-<h3 align="center">Software Engineer | Backend · AI · DevOps | Blockchain Systems</h3>
+<h3 align="center">Software Engineer | Backend · AI · DevOps </h3>
 
 <p>
 I'm a software engineer building high-availability backend systems, AI-powered, data-driven, cloud-native applications, and blockchain infrastructure.
