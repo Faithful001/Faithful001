@@ -3,11 +3,11 @@
 <h3 align="center">Software Engineer | Backend · AI · DevOps </h3>
 
 <p>
-I'm a software engineer building high-availability backend systems, AI-powered, data-driven, cloud-native applications, and blockchain infrastructure.
+I’m a software engineer building high-availability backend systems, AI-powered applications, and distributed infrastructure.
 </p>
 
 <p>
-I build and ship complete products end-to-end, architecting backend systems, building frontend interfaces, and deploying to production, with a focus on performance, reliability, code quality, and scalability.
+I build and ship production systems end-to-end, with a focus on performance, reliability, scalability, and clean architecture.
 </p>
 
 
