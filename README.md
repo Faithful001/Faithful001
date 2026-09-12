@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Backend · AI · DevOps </h3>
 
 <p>
-I’m a software engineer building high-availability backend systems, AI-powered applications, and distributed infrastructure.
+I’m a software engineer building high-availability backend systems, distributed systems, AI-powered applications, and cloud-native infrastructure.
 </p>
 
 <p>
