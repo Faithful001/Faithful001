@@ -11,9 +11,9 @@ I build and ship production systems end-to-end, with a focus on performance, rel
 </p>
 
 
-- 🔭 I’m looking to collaborate on backend, full-stack, AI-powered, and blockchain applications, from idea to production.
+- 🔭 I’m looking to collaborate on backend, full-stack, and AI-powered applications, from idea to production.
 
-- 💬 Let's chat about software engineering, system design, AI engineering, and blockchain/Web3 development.
+- 💬 Let's chat about Backend Systems, AI Engineering, DevOps, Infrastructure.
 
 - 📫 Reach me at kingfaithful001@gmail.com
   
