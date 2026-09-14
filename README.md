@@ -1,6 +1,6 @@
 # Hi 👋, I'm King
 
-<h3 align="center">Software Engineer | Backend · AI · Infra/DevOps </h3>
+<h3 align="center">Software Engineer | Backend · Distributed Systems · AI</h3>
 
 <p>
 I’m a software engineer building high-availability backend systems, distributed systems, AI systems, and cloud infrastructure.
