@@ -1,9 +1,9 @@
 # Hi 👋, I'm King
 
-<h3 align="center">Software Engineer | Backend · AI · DevOps </h3>
+<h3 align="center">Software Engineer | Backend · AI · Infra/DevOps </h3>
 
 <p>
-I’m a software engineer building high-availability backend systems, distributed systems, AI-powered applications, and cloud-native infrastructure.
+I’m a software engineer building high-availability backend systems, distributed systems, AI systems, and cloud infrastructure.
 </p>
 
 <p>
@@ -13,7 +13,7 @@ I build and ship production systems end-to-end, with a focus on performance, rel
 
 - 🔭 I’m looking to collaborate on backend, full-stack, AI-powered, and blockchain applications, from idea to production.
 
-- 💬 Ask me about software engineering, system design, AI engineering, and blockchain/Web3 development.
+- 💬 Let's chat about software engineering, system design, AI engineering, and blockchain/Web3 development.
 
 - 📫 Reach me at kingfaithful001@gmail.com
   
