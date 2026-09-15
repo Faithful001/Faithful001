@@ -10,7 +10,6 @@ I’m a software engineer building high-availability backend systems, distribute
 I build and ship production systems end-to-end, with a focus on performance, reliability, scalability, and clean architecture.
 </p>
 
-
 - 🔭 I’m looking to collaborate on backend, full-stack, and AI-powered applications, from idea to production.
 
 - 💬 Let's chat about Backend Systems, AI Engineering, DevOps, Infrastructure.
@@ -28,13 +27,12 @@ I build and ship production systems end-to-end, with a focus on performance, rel
 
 * **Languages:** TypeScript (Node.js), Java, Go, Python.
 * **Frameworks:** NestJS, Express, Spring Boot, Gin, Fast API.
-* **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Supabase, Firebase.
+* **Databases & Storage:** PostgreSQL, MySQL, MongoDB, Redis, Supabase, Firebase.
 * **Messaging & Queues:** Kafka, RabbitMQ, BullMQ, Celery.
-* **DevOps:** Docker, Kubernetes, GitHub Actions, AWS, Nginx, Linux (Ubuntu).
+* **AI Engineering:** LangChain, LangGraph, RAG, AI Agents, Multi-Agent Systems, LLM integrations.
+* **DevOps:** AWS, Docker, Kubernetes, Nginx, Linux, GitHub Actions, CI/CD.
+* **Web & Mobile:** React, Next.js, React Native, Expo, Tailwind CSS, NativeWind.
 * **Web3:** Solidity (EVM), Web3.js, Ethers.js.
-* **Web:** React, Next.js, Tailwind CSS, REST/GraphQL integration.
-* **Mobile:** React Native, Expo, Nativewind.
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
