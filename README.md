@@ -30,7 +30,7 @@ I build and ship production systems end-to-end, with a focus on performance, rel
 * **Databases & Storage:** PostgreSQL, MySQL, MongoDB, Redis, Supabase, Firebase.
 * **Messaging & Queues:** Kafka, RabbitMQ, BullMQ, Celery.
 * **AI Engineering:** LangChain, LangGraph, RAG, AI Agents, Multi-Agent Systems, LLM integrations.
-* **DevOps:** AWS, Docker, Kubernetes, Nginx, Linux, GitHub Actions, CI/CD.
+* **Infrastructure & DevOps:** AWS, Docker, Kubernetes, Nginx, Linux, GitHub Actions, CI/CD.
 * **Web & Mobile:** React, Next.js, React Native, Expo, Tailwind CSS, NativeWind.
 * **Web3:** Solidity (EVM), Web3.js, Ethers.js.
 
