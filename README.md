@@ -25,8 +25,8 @@ I build and ship production systems end-to-end, with a focus on performance, rel
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
-* **Languages:** TypeScript (Node.js), Java, Go, Python.
-* **Frameworks:** NestJS, Express, Spring Boot, Gin, FastAPI.
+* **Languages:** Java, Go, TypeScript (Node.js), Python.
+* **Frameworks:** Spring Boot, Gin, NestJS, Express, FastAPI.
 * **Databases & Storage:** PostgreSQL, MySQL, MongoDB, Redis, Supabase, Firebase.
 * **Messaging & Queues:** Kafka, RabbitMQ, BullMQ, Celery.
 * **AI Engineering:** LangChain, LangGraph, RAG, AI Agents, Multi-Agent Systems, LLM integrations.
