@@ -1,6 +1,6 @@
 # King Faithful
 
-**Backend & AI Software Engineer | Cloud Infrastructure**
+**Backend & AI Engineer | Cloud Infrastructure**
 
 Software engineer building production backend, distributed, and AI systems, with a focus on reliable, scalable infrastructure.
 
