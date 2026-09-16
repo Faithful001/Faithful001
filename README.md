@@ -33,7 +33,7 @@ Software engineer building production backend, distributed, and AI systems, with
 ![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat\&logo=apachekafka\&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat\&logo=rabbitmq\&logoColor=white)
 ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat\&logo=celery\&logoColor=white)
-![BullMQ](https://img.shields.io/badge/-BullMQ-E0234E?style=flat\&logo=redis\&logoColor=white)
+![BullMQ](https://img.shields.io/badge/-BullMQ-E0234E?style=flat)
 
 ### AI & LLM Engineering
 
