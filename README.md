@@ -27,8 +27,6 @@ Software engineer building production backend, distributed, and AI systems, with
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat\&logo=redis\&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat\&logo=supabase\&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=black)
 
 ### Messaging & Async Systems
 
