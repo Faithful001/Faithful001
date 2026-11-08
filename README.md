@@ -2,7 +2,7 @@
 
 **Backend & AI Engineer • Cloud Infrastructure**
 
-Software engineer building backend, distributed, and AI systems that survive real-world traffic.
+Software engineer building backend, distributed, and AI systems that survive real-world traffic
 
 ## Tech Stack
 
